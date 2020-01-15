@@ -1,2 +1,4 @@
-# curso-react-rocketseat
-Estudos React RocketSeat
+# React
+### Criando Projeto do Zero
+
+`yarn create react-app [nome]`
